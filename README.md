@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuryoinn
-- 👀 I’m interested in ... UI&UX
+- 👀 I’m interested in ... UI&UX / Fintech
 - 🌱 I’m currently learning ... Sass / Javascript
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... yuryoinn88@gmail.com
